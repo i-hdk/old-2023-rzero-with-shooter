@@ -1,0 +1,112 @@
+{
+  "waypoints": [
+    {
+      "anchorPoint": {
+        "x": 7.07,
+        "y": 3.8
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 6.359276778553558,
+        "y": 4.449968899937801
+      },
+      "holonomicAngle": 135.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 4.438864877729756,
+        "y": 4.7
+      },
+      "prevControl": {
+        "x": 5.025882051764103,
+        "y": 4.636879873759748
+      },
+      "nextControl": {
+        "x": 3.7164618821112683,
+        "y": 4.777677741464354
+      },
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 2.35,
+        "y": 4.55
+      },
+      "prevControl": {
+        "x": 2.6495886991773987,
+        "y": 4.803441606883214
+      },
+      "nextControl": {
+        "x": 2.0897605088015974,
+        "y": 4.329846452803821
+      },
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 2.4,
+        "y": 2.9
+      },
+      "prevControl": {
+        "x": 2.027676055352111,
+        "y": 3.4365210730421456
+      },
+      "nextControl": null,
+      "holonomicAngle": 180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    }
+  ],
+  "markers": [
+    {
+      "position": 2.048484848484777,
+      "names": [
+        "cPop"
+      ]
+    },
+    {
+      "position": 0.45,
+      "names": [
+        "cScore"
+      ]
+    }
+  ]
+}
